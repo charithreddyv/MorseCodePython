@@ -22,6 +22,8 @@ In this application a ```"dit" is denoted by "." ``` and a ```"dah" is denoted b
 * For some os's we need ffmpeg for decoding the audio files (for ubunut or most of the linux bases ) :
 
   ```sudo apt install ffmpeg``` [other os's](https://github.com/adaptlearning/adapt_authoring/wiki/Installing-FFmpeg)
+ * Running the Application
+   ``` python getMorseCode.py ``` (input the data there )
   
   Source for all the MorseCode audio and images [wikipedia](https://en.wikipedia.org/wiki/Morse_code)
 
