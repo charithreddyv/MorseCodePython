@@ -5,6 +5,8 @@ A Simple Application to convert Text to MorseCode(with Audio)
 
 The application converts given input string of English characters , numerics and some special characters into MorseCode in characters and also plays  the audio for each character
 
+if the input character is not found then it is denoted with a `/`
+
 In this application a ```"dit" is denoted by "." ``` and a ```"dah" is denoted by "-"```
 
 #setup
