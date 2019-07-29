@@ -25,7 +25,7 @@ alphanumeric_all = {
     'X':['-..- ','Morse_Code/Alpha/X_morse_code.ogg'],
     'Y':['-.-- ','Morse_Code/Alpha/Y_morse_code.ogg'],
     'Z':['--.. ','Morse_Code/Alpha/Z_morse_code.ogg'],
-    ' ':['   ',''],
+    ' ':['  ',''],
     '1':['.---- ','Morse_Code/Numerics/1_number_morse_code.ogg'],
     '2':['..--- ','Morse_Code/Numerics/2_number_morse_code.ogg'],
     '3':['...-- ','Morse_Code/Numerics/3_number_morse_code.ogg'],
