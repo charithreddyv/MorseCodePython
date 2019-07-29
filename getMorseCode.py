@@ -2,8 +2,9 @@ from pydub import AudioSegment
 from pydub.playback import play
 from MorseList import alphanumeric_all
 import os
+import time
 
-data = input('input data')
+data = input('Input data: ')
 output = [] 
 letters = list(data.upper())
 for letter in letters:
@@ -14,7 +15,7 @@ for letter in letters:
             snd = AudioSegment.from_ogg(audio)
             play(snd)
         else:
-            pass
+            time.sleep(0.3)
     else:
         output.append('/')
 print(''.join(output))
